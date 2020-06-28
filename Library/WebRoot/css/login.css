@@ -1,0 +1,123 @@
+.welcome{
+	position:absolute;
+	background:url("welcomePage.jpg") no-repeat 1920px 950px;
+}
+
+.Chineseword{
+	position:absolute;
+	margin-top:50px;
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-left:30px;
+	font-size:30px;
+	color:white;
+}
+
+.Englishword{
+	position:absolute;
+	margin-top:100px;
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-left:30px;
+	font-size:25px;
+	color:white;
+}
+
+.errorsubmit{
+	position:absolute;
+	margin-top:5px;
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-left:90px;
+	width:400px;
+	color:red;
+}
+.loginform{
+	position:absolute;
+	margin-top:250px;
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-left:500px;
+	height:500px;
+	width:410px;
+	background-color: white;
+	 padding: 25px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+#labellogin{
+	position:absolute;
+	margin-left:95px;
+	margin-top:-10px;
+	text-align:center;
+	width:140px;
+	color:white;
+	font-size:20px;
+}
+
+#usernameinput{
+	width:340px; 
+}
+
+#passwordinput{
+	width:340px; 
+}
+
+#loginbutton{
+	width:340px;
+}
+
+
+#stuModuleButton{
+ 	position:absolute;
+	margin-top:10px; 
+	margin-left:200px;
+	height:30px;
+	width:75px;
+	background-color: transparent;
+	border:0px;
+}
+
+#certiIDinput{
+	width:340px
+}
+
+#stupasswordinput{
+	width:340px; 
+}
+
+#stuloginbutton{
+	width:340px;
+}
+
+#certification{
+ 	position:absolute;
+	margin-top:10px; 
+	height:30px;
+	width:100px;
+	background-color: transparent;
+	border:0px;
+}
+
+#administrators{
+ 	position:absolute;
+	margin-top:10px; 
+	margin-left:200px;
+	height:30px;
+	width:100px;
+	background-color: transparent;
+	border:0px;
+}
+
+
+#rightsize{
+	align:right;
+	color:white;	
+}
+
+
+
+
+
+
+
